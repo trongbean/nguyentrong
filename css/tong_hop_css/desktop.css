@@ -71,4 +71,5 @@ hr{
     text-decoration: none;
     color: aqua;
 }
+    li {list-style-type: none}
 }
