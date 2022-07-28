@@ -1,0 +1,74 @@
+@media only screen and (min-width:992px    
+)
+{
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.menu {
+    justify-content: center;
+    justify-content: space-between;
+    font-size: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.menu a{
+    color: black;}
+.menu-left{
+    padding-left: 40px ;
+
+}
+.menu-right{
+    padding-right: 40px ;
+
+}
+.menu-left ul, .menu-right ul{
+    margin: 0;
+    padding: 0;
+    
+}
+.menu-left ul li, .menu-right  ul li{
+    padding: 16px 10px;
+}
+.banner{position: relative;}
+.banner-img img{
+    width: 100%;
+}
+.banner{
+    /* background-image: url('/img\du-lich.jpg'); */
+    background-size: cover;
+}
+.banner-text{
+    position:absolute;
+    top: 150px;
+    left:80px;
+    color:white;
+    font-size: 50px;
+}
+hr{
+    display: none}
+.main-content-head{
+    padding: 20px 50px;
+}
+.main-content{
+    background-color: rgb(208, 204, 204)
+}
+.column{
+
+    width: 100%;
+}
+#anh{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(208, 204, 204);
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(240, 236, 236);
+    padding:0px 30px}
+.footer a{
+    text-decoration: none;
+    color: aqua;
+}
+}

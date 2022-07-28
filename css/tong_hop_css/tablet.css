@@ -1,0 +1,25 @@
+@media only screen and (max-width:992px) and (min-width:768px)
+{
+    .menu{background-color: rgb(151, 153, 154);}
+    .menu {
+        justify-content: center;
+        justify-content: space-between;
+        font-size: 25px;
+        padding-left: 40px;
+        padding-right: 40px;
+    padding: 20px;}
+    .row, li {
+        list-style-type: none;
+    ;}
+    .menu a{
+        padding: 20px;
+        color: white;}
+        
+    .banner-img {
+    display: none;
+}
+.banner-text h1{font-size: 60px;}
+.main-content h2{font-size: 60px}
+#footer h2{font-size: 50px;}
+}
+#footer div{margin:20px 0}

@@ -1,0 +1,58 @@
+.menu1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .me/nu1 li a {
+    font-size: 200px !important;
+} */
+.menu li a {
+    padding: 9px 12px;
+    border: 1px solid #231313;
+    border-radius: 4px;
+    line-height: 100%;
+    text-decoration: none !important;
+    color: #4F4F4F !important;
+    font-size: 20px !important;
+}
+h2{padding-left: 20px;
+color: rgb(27, 151, 23);
+font-size: 30px;
+}
+li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    outline: none
+}
+
+li {
+    text-align: center;
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+    color: rgb(11, 83, 148);
+    font-size: 40px;
+    width: 100%;
+    padding: 10px;
+}
+.banner{
+    margin-bottom: 30px;}
+.full {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+p {
+    font-size: 20px;
+}
